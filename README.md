@@ -50,6 +50,14 @@ cd my-turborepo
 npm build
 ```
 
+### Run via docker
+
+```
+docker-compose up --build
+```
+
+This will start your application on `localhost:3000`
+
 ### Develop
 
 To develop all apps and packages, run the following command:
